@@ -171,8 +171,8 @@ cd tic-tac-toe
 
 Your Name
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/Parth-243)
+- LinkedIn: [Parth Shrivastava](https://www.linkedin.com/in/parth-shrivastava-85ba83262/)
 
 ## 🙏 Acknowledgments
 
@@ -184,8 +184,8 @@ Your Name
 
 For any queries or suggestions:
 
-- Email: your.email@example.com
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: parthshrivastva24@gmail.com
+- Twitter: [@Parthshrivast24](https://x.com/Parthshrivast24)
 
 ---
 
