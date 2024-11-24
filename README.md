@@ -171,7 +171,7 @@ cd tic-tac-toe
 
 Your Name
 
-- GitHub: [@yourusername](https://github.com/Parth-243)
+- GitHub: [@Part-243](https://github.com/Parth-243)
 - LinkedIn: [Parth Shrivastava](https://www.linkedin.com/in/parth-shrivastava-85ba83262/)
 
 ## 🙏 Acknowledgments
